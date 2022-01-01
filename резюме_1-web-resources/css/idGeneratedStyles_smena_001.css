@@ -96,6 +96,27 @@ p.заголовок {
 	
 	
 }
+p.название {
+	color:#134398;
+	font-family:"Oswald-Regular", serif;
+	font-size:35px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
 #home {
 	
 	
@@ -433,12 +454,21 @@ td.Стандартная-таблица {
 	width:400px;
 	object-fit: contain;
 } */
+#conteiner_f img
+{	
+	display: block;	
+	width:80%;
+	/* object-fit: contain; */
+	padding:2%;
+	margin-left:80px;
+	/* margin:10%; */
+}
 
 #conteiner_f01 img
 {	
 	display: block;
 	
-	width:70%;
+	width:80%;
 	/* object-fit: contain; */
 	padding:2%;
 	
