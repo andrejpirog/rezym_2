@@ -99,7 +99,7 @@ p.заголовок {
 p.название {
 	color:#134398;
 	font-family:"Oswald-Regular", serif;
-	font-size:35px;
+	font-size:30px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -388,7 +388,7 @@ td.Стандартная-таблица {
 	width: 50%;
 	margin-left:20%;
 	/* padding-bottom:100px; */
-	margin-top:50px;
+	margin-top:0px;
 	height: 100%;
 	/* margin-bottom:200px; */
 	font-family:"Myriad Pro", sans-serif;
