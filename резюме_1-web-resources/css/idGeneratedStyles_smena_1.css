@@ -6,14 +6,14 @@ body, div {
 	border-width:0;
 }
 body {
-	background: #faf0eb;
+	background:#faf0eb;
 	min-width:400px;
 	height:1000px;
 	
 }
 #left {
 	float:right;
-	background: #faf0eb;
+	background:#faf0eb;
 	width:40%;
 	height:260px;
 	margin-top: 20px;
@@ -22,7 +22,7 @@ body {
 }
 #right {
 	float:left;
-	background: #faf0eb;
+	background:#faf0eb;
 	width:40%;
 	height:260px;
 	margin-top: 20px;
